@@ -1,3 +1,5 @@
+<img width="1599" height="899" alt="WhatsApp Image 2026-05-25 at 11 50 10" src="https://github.com/user-attachments/assets/42baff6a-224f-45ad-8a0d-994af7ca6b8c" />
+<img width="1599" height="899" alt="WhatsApp Image 2026-05-25 at 11 50 09" src="https://github.com/user-attachments/assets/16081eb4-a972-46da-a141-85a3687cc76d" />
 # OpenScan
 Repositório para  replicação do projeto open source da Open Scan.
 O OpenScan é um conceito modular que pode ser usado para construir seu scanner 3D baseado em fotogrametria. Você pode simplesmente usar os módulos individuais e ajustá-los às suas necessidades (por exemplo, firmware, design para impressão 3D, PCB, processamento de fotogrametria na nuvem...). A peça central é um controlador de câmera/motor baseado em Raspberry Pi, que pode ser usado para controlar diversos equipamentos de fotogrametria.
