@@ -5,6 +5,13 @@ O OpenScan é um conceito modular que pode ser usado para construir seu scanner 
 
 O projeto se baseia na contribuição de muitas pessoas incríveis e de mente aberta, que criaram tutoriais no YouTube, comentaram no Reddit, publicaram no GitHub e em muitos outros lugares. Sem todos esses colaboradores voluntários, este projeto não seria possível.
 
+Etapas realizadas: 
+Projeto da placa eletronica utilizando os circuitos e fotos de referencias disponibilizados na documentação.
+Alterações pontuias, como troca do regulador de tensão e layout das placas.
+Impressão da estrutura em 3d e montagem.
+Montagem da eletrônica e instalação e configuração do firmware.
+Teste de digitalização, com diferentes parametros.
+
 Links:
 Documentação: https://openscan-org.github.io/OpenScan-Doc/
 
